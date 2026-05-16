@@ -1,0 +1,14 @@
+window.ROSSBURN_LOT_OVERRIDES=window.ROSSBURN_LOT_OVERRIDES||{};
+window.ROSSBURN_LOT_OVERRIDES[""]={
+  "n":"",
+  "p":"",
+  "s":"",
+  "st":"",
+  "pr":"",
+  "t":"",
+  "sz":"",
+  "d":"",
+  "i1":"",
+  "i2":"",
+  "i3":""
+};
